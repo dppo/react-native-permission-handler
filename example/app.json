@@ -1,0 +1,22 @@
+{
+  "name": "react-native-permission-handler-example",
+  "displayName": "PermissionHandler Example",
+  "expo": {
+    "name": "react-native-permission-handler-example",
+    "slug": "react-native-permission-handler-example",
+    "description": "Example app for react-native-permission-handler",
+    "privacy": "public",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
